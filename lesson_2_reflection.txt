@@ -1,0 +1,2 @@
+What happens when you initialize a repository? Why do you need to do it?
+Ans: when we initialize a repository a new empty repository gets created with name.git,we need repositories to save our commits of the data we are working on.
