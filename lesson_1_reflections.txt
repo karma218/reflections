@@ -1,0 +1,12 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+Ans: Viewing the two different versions using the FC command in Windows And diff command in Linux helped me resolve the issue of bug by showing the changed lines of the two different versions
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+Ans: in the long term we can easily access the previous versions of a software and try to build a whole new another version from it.Also, whenever a problem occurs while developing a newer version we can easily roll back to the previous versions and compare the code accordingly and reduce our workload. This makes us efficient programmers
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+Ans: i think because it helps us to keep track of our changes made to the files at different point of time,since git is programming oriented it saves the multiple in a repository
+ How can you use the commands git log and git diff to view the history of files?
+ Ans: wwe can use git log command by entering the git file and typing the git log command which will give us all the commits and their ids and after that we can compare the difference between two files by typing git diff followed by the commit ids
+ How might using version control make you more confident to make changes that could break something?
+ Ans: using version cintrol helps me break my changes in a systematic manner on basis of commits and by checking out those commits i can easily identify bugs and other problems that arise later in development.
+ Now that you have your workspace set up, what do you want to try using Git for?
+ Ans: i would like to use it for launching my editor and write code in the editor and commit them using git   
