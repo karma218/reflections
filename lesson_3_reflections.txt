@@ -9,4 +9,7 @@ Ans: forks:They are clones of repositories that are created on github only.
      and within your local machines to a different spot.
      Branches: These are commits that are created within a repository with respect to a branch.
 What is the benefit of having a copy of the last known state of the remote stored locally?
-Ans: we can work ahead refering to the master branch in both cases and and then try to merge them to apply overall changes.when we get last state locally we can work offline and then reflect ur work to the github repository.
+Ans: we can work ahead refering to the master branch in both cases and and then try to merge them to apply overall changes.
+     when we get last state locally we can work offline and then reflect ur work to the github repository.
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+Ans: it woul a lot harder i suppose one of collaborating is throuh constant communication between the colleagues via email from time to time.
