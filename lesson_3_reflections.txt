@@ -12,4 +12,6 @@ What is the benefit of having a copy of the last known state of the remote store
 Ans: we can work ahead refering to the master branch in both cases and and then try to merge them to apply overall changes.
      when we get last state locally we can work offline and then reflect ur work to the github repository.
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
-Ans: it woul a lot harder i suppose one of collaborating is throuh constant communication between the colleagues via email from time to time.
+Ans: it would be lot harder i suppose one of collaborating method is through constant communication between the colleagues via email from time to time.
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+Ans: when i want add/test an extra feature without disturbing the current working version,then we can opt for branching.Branching helps in changing the flow of the regular master branch and also having its features,on the other hand master branch is something whichis concrete and should not be changed until it very efficient and necessary.
